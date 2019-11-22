@@ -42,3 +42,8 @@
 ## Coming soon
 
  - Update use of retrieval.# clothe-recognition
+ 
+ ## Example
+ 
+ galymzhan.jpeg
+ gala.jpg
