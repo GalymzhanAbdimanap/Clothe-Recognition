@@ -44,6 +44,8 @@
  - Update use of retrieval.# clothe-recognition
  
  ## Example
+ ![alt text](https://github.com/GalymzhanAbdimanap/clothe-recognition/galymzhan.jpeg)
+ - galymzhan.jpeg
  
- galymzhan.jpeg
- gala.jpg
+ ![alt text](https://github.com/GalymzhanAbdimanap/clothe-recognition/gala.jpg)
+ - gala.jpg
